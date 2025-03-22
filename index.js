@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["BOT BY","_real_1 ❤️","ENJOY😎","? works when owner is online"];
+const statusMessages = ["BOT BY","_real_1 ❤️","ENJOY😎"];
 
 
 let currentIndex = 0;
